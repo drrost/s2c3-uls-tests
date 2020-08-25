@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = git@github.com:drrost/c-testlib.git
+[submodule "c-testlib"]
+	path = lib
+	url = git@github.com:drrost/c-testlib.git
