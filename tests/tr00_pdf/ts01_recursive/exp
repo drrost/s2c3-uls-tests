@@ -32,6 +32,6 @@ file02_1
 ./dir00/z_dir00:
 
 ./out_t01:
-diff
+diff.txt
 exp
 res
